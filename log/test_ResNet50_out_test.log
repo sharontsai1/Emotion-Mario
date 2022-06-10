@@ -1,0 +1,476 @@
+random seed=777
+dataset configuration: batch size = 16
+638 : tensor([[-4.4385, -6.1017,  2.8337, -2.9936,  0.5886]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+1701 : tensor([[-4.4375, -6.8528, -7.8514,  5.4620, -4.6828]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+1924 : tensor([[-3.1191, -5.4012, -9.6844,  2.4318, -3.1539]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+3034 : tensor([[-3.1191, -5.4012, -9.6844,  2.4318, -3.1539]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+3424 : tensor([[-6.8931, -6.8972, -3.4877, -3.5287,  4.6967]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+5161 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+5219 : tensor([[ 3.6524, -8.9845, -5.3869, -3.8283,  0.8849]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+5749 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+5803 : tensor([[ 3.8986, -8.7980, -5.2174, -3.9044,  0.9129]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+5820 : tensor([[ 3.1209, -8.5738, -5.2388, -3.8645,  1.1749]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+6975 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+6997 : tensor([[ 1.6575, -7.0498, -1.5190, -5.2550,  0.8987]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+7007 : tensor([[ 3.2572, -9.0037, -5.2085, -3.9962,  1.0670]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+8057 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+8121 : tensor([[ 3.1785, -8.8567, -5.3601, -4.1299,  1.4553]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+8787 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+8809 : tensor([[ 1.6575, -7.0498, -1.5190, -5.2550,  0.8987]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+8819 : tensor([[ 3.2572, -9.0037, -5.2085, -3.9962,  1.0670]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+9346 : tensor([[-4.0242, -4.8097,  2.9173, -4.2849,  0.3750]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+9577 : tensor([[-5.6073, -5.9715, -7.5023,  4.4500, -4.8723]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+9765 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+9787 : tensor([[ 2.5056, -8.5557, -3.3174, -5.3210,  2.0882]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+9819 : tensor([[ 3.8135, -9.6821, -6.6555, -5.1941,  2.5880]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+9839 : tensor([[ 3.1866, -8.7105, -5.2833, -4.0688,  1.3681]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+12607 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+12676 : tensor([[ 3.3173, -8.8460, -5.6115, -4.9536,  2.1910]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+13098 : tensor([[ -7.1409,  -7.0985, -11.3288,  -7.7004,   8.1964]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+14019 : tensor([[-0.4913, -9.2935, -8.2417, -2.8938, -0.6863]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+14051 : tensor([[-0.5061, -9.6927, -9.2307, -2.4558, -0.7148]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+14479 : tensor([[-0.5918, -7.6107, -5.1936, -2.1257, -0.7660]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+14787 : tensor([[  5.2441, -11.4172,  -7.9410,  -5.2413,   1.1099]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+14799 : tensor([[  4.0470, -10.5831,  -6.7014,  -6.6749,   2.6068]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+14835 : tensor([[ 2.3298, -9.8042, -4.5778, -5.0093,  0.0257]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+15709 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+15789 : tensor([[ 3.3280, -8.9391, -5.3507, -3.9473,  1.1194]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+15847 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+15869 : tensor([[ 1.6575, -7.0498, -1.5190, -5.2550,  0.8987]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+15879 : tensor([[ 3.2572, -9.0037, -5.2085, -3.9962,  1.0670]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+17419 : tensor([[  7.9094, -12.0356,  -7.2979,  -3.5359,  -2.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+17441 : tensor([[ 1.6575, -7.0498, -1.5190, -5.2550,  0.8987]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+17451 : tensor([[ 3.2572, -9.0037, -5.2085, -3.9962,  1.0670]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+17710 : tensor([[-5.1716, -5.1793, -2.2163, -3.7025,  1.8742]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+19117 : tensor([[  0.4434, -10.5503,  -7.6082,  -2.1200,  -0.5915]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+19167 : tensor([[  0.8828, -11.2139,  -7.6804,  -2.6067,  -0.4800]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+19171 : tensor([[ -1.6800, -10.1948,  -5.7527,  -2.5116,  -1.7168]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+19176 : tensor([[-0.4567, -9.5216, -4.4425, -3.9518, -0.6010]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+19196 : tensor([[  1.0472, -12.3116,  -8.1877,  -1.6491,  -1.1959]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+19204 : tensor([[ 1.0270, -9.7030, -8.5480, -3.7697,  0.9779]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+19397 : tensor([[  3.7479, -11.4500,  -9.2249,  -4.5619,   0.3184]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+21760 : tensor([[ 4.0992, -5.9644, -4.9531,  2.6744, -4.5407]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+23647 : tensor([[ 4.0992, -5.9644, -4.9531,  2.6744, -4.5407]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+25045 : tensor([[ 4.0992, -5.9644, -4.9531,  2.6744, -4.5407]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+27442 : tensor([[ 4.0992, -5.9644, -4.9531,  2.6744, -4.5407]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+29196 : tensor([[ 4.0992, -5.9644, -4.9531,  2.6744, -4.5407]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+31827 : tensor([[  8.2410, -12.3775,  -8.9734,  -1.9963,  -2.9869]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+31897 : tensor([[ 2.4091, -7.5607, -7.2046, -2.6205,  1.1736]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+32099 : tensor([[  8.2410, -12.3775,  -8.9734,  -1.9963,  -2.9869]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+32168 : tensor([[ 4.4090, -9.3063, -8.0101, -6.3072,  3.0335]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+33405 : tensor([[  8.2410, -12.3775,  -8.9734,  -1.9963,  -2.9869]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+33461 : tensor([[ 3.8818, -7.4665, -6.5208, -7.5733,  3.6891]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+33470 : tensor([[ 5.3465, -9.2800, -7.5188, -5.8413,  2.1702]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+34113 : tensor([[  8.2410, -12.3775,  -8.9734,  -1.9963,  -2.9869]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+34981 : tensor([[  8.2410, -12.3775,  -8.9734,  -1.9963,  -2.9869]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+36719 : tensor([[  8.2410, -12.3775,  -8.9734,  -1.9963,  -2.9869]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+36750 : tensor([[ 3.9765, -8.1479, -8.2374, -7.3261,  3.6800]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+39153 : tensor([[ 6.8435, -8.3249, -8.5888, -1.2870, -2.5921]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+39720 : tensor([[ 6.8435, -8.3249, -8.5888, -1.2870, -2.5921]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+39846 : tensor([[ 6.8435, -8.3249, -8.5888, -1.2870, -2.5921]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+41179 : tensor([[ 6.8435, -8.3249, -8.5888, -1.2870, -2.5921]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+41212 : tensor([[ 3.7381, -5.5936, -7.4175, -3.0944,  0.8731]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+44846 : tensor([[ 4.4550, -6.8132, -5.7002,  2.1900, -4.5060]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+45394 : tensor([[ 4.4550, -6.8132, -5.7002,  2.1900, -4.5060]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+46057 : tensor([[-4.4047, -4.3247,  3.6838, -4.9422, -0.0574]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+46428 : tensor([[-3.9999, -7.1167, -6.7681,  3.0895, -4.7501]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+46736 : tensor([[ 4.4550, -6.8132, -5.7002,  2.1900, -4.5060]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+47033 : tensor([[-6.8427, -5.5992, -4.5442, -7.5847,  5.1402]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+49266 : tensor([[-6.0743, -8.2015, -5.4442,  3.8588, -5.0934]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+50639 : tensor([[-5.7798, -3.0750,  3.2358, -4.4590,  0.3585]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+51448 : tensor([[-3.7212, -7.5825, -7.0207,  3.6497, -6.0365]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+53127 : tensor([[-4.4216, -7.8036, -7.0840,  1.2873, -1.3674]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+60466 : tensor([[-5.1529, -7.4067, -4.5065, -5.3950,  3.5012]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+62560 : tensor([[-5.8663, -8.5529, -5.8260,  3.8192, -3.1249]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+64559 : tensor([[-4.5280, -4.5221,  0.1486, -2.4661, -0.5886]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+66362 : tensor([[-6.8863, -8.4832, -6.9400,  4.4762, -3.3963]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+67417 : tensor([[-5.2522, -3.3019, -2.9581, -4.2241,  3.0233]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+68052 : tensor([[-6.7431, -8.3107, -9.7186,  5.5234, -3.9449]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+70560 : tensor([[-5.2012, -8.0633, -0.3552, -3.2002, -0.2323]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+71272 : tensor([[-4.5973, -7.2665, -6.8652,  3.6210, -2.7880]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+74048 : tensor([[ 4.4050, -7.6337, -4.7038,  2.3402, -4.2450]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+76275 : tensor([[ 4.8224, -7.4644, -6.2307,  2.0596, -4.2906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+79721 : tensor([[ 4.8224, -7.4644, -6.2307,  2.0596, -4.2906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+80863 : tensor([[-6.5507, -4.4530, -2.3247,  0.2844, -1.9339]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+82215 : tensor([[ 4.8224, -7.4644, -6.2307,  2.0596, -4.2906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+82571 : tensor([[-3.6372, -3.8734,  1.1448, -3.9653,  0.6107]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+82937 : tensor([[-6.4155, -6.1718, -8.7093,  3.7064, -4.1398]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+83573 : tensor([[ 4.8224, -7.4644, -6.2307,  2.0596, -4.2906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+87815 : tensor([[ 4.8224, -7.4644, -6.2307,  2.0596, -4.2906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+89613 : tensor([[ 4.8224, -7.4644, -6.2307,  2.0596, -4.2906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+90041 : tensor([[-3.2490, -4.3330,  0.0731, -4.0738,  0.7569]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+92482 : tensor([[ 5.4174, -7.0954, -4.5186, -0.8061, -4.8189]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+93600 : tensor([[ 5.4174, -7.0954, -4.5186, -0.8061, -4.8189]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+94338 : tensor([[-8.1289, -6.4573, -6.3903, -6.4424,  5.8038]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+94868 : tensor([[-3.8032, -6.2792, -5.8872,  2.0848, -3.4953]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+95066 : tensor([[ 5.4174, -7.0954, -4.5186, -0.8061, -4.8189]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+95698 : tensor([[ 5.4174, -7.0954, -4.5186, -0.8061, -4.8189]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+96442 : tensor([[-6.8550, -5.4715, -5.2250, -4.9628,  5.1732]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+96816 : tensor([[-5.5919, -5.7792, -5.4496,  0.9702, -1.8126]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+98561 : tensor([[ 5.2822, -6.7039, -4.0680, -0.4807, -4.9719]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+100378 : tensor([[-5.5794, -6.0191, -2.1852,  1.0411, -2.1925]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+102797 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+flag!
+103313 : tensor([[-7.5876, -7.0157, -0.0679, -6.8936,  2.1832]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+103606 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+104214 : tensor([[-5.3044, -4.0351,  2.4574, -4.1610,  0.4533]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+106110 : tensor([[-3.7627, -6.6500, -8.7241,  4.6676, -4.4965]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+106498 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+107083 : tensor([[-6.1132, -4.6281,  4.2239, -4.4275, -0.6884]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+108268 : tensor([[-6.9121, -7.4380, -8.4168,  3.6144, -1.6821]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+108998 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+111328 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+112480 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+114180 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+114721 : tensor([[-6.7726, -4.4598, -1.1369, -4.6724,  3.4389]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+115780 : tensor([[-5.3805, -7.8823, -8.2218,  5.7033, -5.9570]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+115862 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+116584 : tensor([[-7.3375, -5.0254, -7.2364,  0.6551, -0.3553]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+116854 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+117047 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+117514 : tensor([[-6.4712, -3.5635,  0.1384, -4.1196,  2.1014]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+118267 : tensor([[-5.5118, -6.9359, -8.3586,  3.5724, -2.6737]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+118575 : tensor([[ 4.8261, -7.4479, -6.1883,  1.9406, -4.2366]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119450 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119474 : tensor([[ 4.2692, -8.7483, -5.5048, -4.6074,  1.3680]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119504 : tensor([[ 3.8927, -9.6867, -7.6293, -5.6156,  2.8893]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119569 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119591 : tensor([[ 3.7547, -7.9155, -4.3957, -7.4383,  3.2692]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119624 : tensor([[ 4.4185, -9.7235, -6.8885, -6.1259,  3.1053]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119643 : tensor([[ 3.9663, -9.3633, -7.3192, -6.2765,  3.5339]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119797 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119832 : tensor([[ 4.1713, -9.0787, -6.3414, -5.5085,  2.3726]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+119928 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120005 : tensor([[ 3.7593, -9.4468, -7.6003, -5.8315,  3.3334]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120117 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120141 : tensor([[ 4.2692, -8.7483, -5.5048, -4.6074,  1.3680]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120171 : tensor([[ 4.2612, -8.8075, -5.9068, -4.3496,  1.1587]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120739 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120761 : tensor([[ 2.6089, -7.2538, -2.6813, -6.1561,  1.5881]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120771 : tensor([[ 4.1360, -8.7414, -5.8388, -4.4805,  1.3272]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120957 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+120981 : tensor([[ 4.2692, -8.7483, -5.5048, -4.6074,  1.3680]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+121023 : tensor([[ 4.1140, -8.5651, -5.8589, -4.5768,  1.6098]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+121407 : tensor([[-5.8350, -4.1894, -1.0393, -1.8940, -0.6924]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!
+121769 : tensor([[-0.8265, -9.7556, -6.8440,  5.1092, -6.5697]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status down!
+124624 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+124646 : tensor([[ 2.6089, -7.2538, -2.6813, -6.1561,  1.5881]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+124656 : tensor([[ 4.1360, -8.7414, -5.8388, -4.4805,  1.3272]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+124843 : tensor([[  8.4646, -12.2288,  -8.1387,  -4.3443,  -1.5906]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+124886 : tensor([[ 4.2612, -8.8075, -5.9068, -4.3496,  1.1587]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+lift lost!
+125291 : tensor([[-5.6835, -6.3177,  0.8348, -4.3290,  0.8243]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+status up!

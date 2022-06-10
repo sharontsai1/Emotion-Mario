@@ -1,0 +1,1352 @@
+random seed=777
+dataset configuration: batch size = 16
+===> Epoch[1](10/77): Avg. Loss: 1.4087
+===> Epoch[1](20/77): Avg. Loss: 1.0786
+===> Epoch[1](30/77): Avg. Loss: 0.9980
+===> Epoch[1](40/77): Avg. Loss: 0.8761
+===> Epoch[1](50/77): Avg. Loss: 0.8808
+===> Epoch[1](60/77): Avg. Loss: 0.9127
+===> Epoch[1](70/77): Avg. Loss: 0.8554
+Val Error: 
+	Accuracy: 57.5%, Avg loss: 1.429992 
+===> Epoch[2](10/77): Avg. Loss: 0.5916
+===> Epoch[2](20/77): Avg. Loss: 0.7446
+===> Epoch[2](30/77): Avg. Loss: 0.5379
+===> Epoch[2](40/77): Avg. Loss: 0.5909
+===> Epoch[2](50/77): Avg. Loss: 0.5428
+===> Epoch[2](60/77): Avg. Loss: 0.6466
+===> Epoch[2](70/77): Avg. Loss: 0.5492
+Val Error: 
+	Accuracy: 73.6%, Avg loss: 0.745545 
+===> Epoch[3](10/77): Avg. Loss: 0.4861
+===> Epoch[3](20/77): Avg. Loss: 0.4927
+===> Epoch[3](30/77): Avg. Loss: 0.3763
+===> Epoch[3](40/77): Avg. Loss: 0.3099
+===> Epoch[3](50/77): Avg. Loss: 0.3575
+===> Epoch[3](60/77): Avg. Loss: 0.3649
+===> Epoch[3](70/77): Avg. Loss: 0.3634
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.478416 
+===> Epoch[4](10/77): Avg. Loss: 0.2611
+===> Epoch[4](20/77): Avg. Loss: 0.3101
+===> Epoch[4](30/77): Avg. Loss: 0.3400
+===> Epoch[4](40/77): Avg. Loss: 0.3453
+===> Epoch[4](50/77): Avg. Loss: 0.3297
+===> Epoch[4](60/77): Avg. Loss: 0.3696
+===> Epoch[4](70/77): Avg. Loss: 0.4414
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.608230 
+===> Epoch[5](10/77): Avg. Loss: 0.2606
+===> Epoch[5](20/77): Avg. Loss: 0.4051
+===> Epoch[5](30/77): Avg. Loss: 0.3802
+===> Epoch[5](40/77): Avg. Loss: 0.3768
+===> Epoch[5](50/77): Avg. Loss: 0.2957
+===> Epoch[5](60/77): Avg. Loss: 0.3933
+===> Epoch[5](70/77): Avg. Loss: 0.3312
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.521048 
+===> Epoch[6](10/77): Avg. Loss: 0.2278
+===> Epoch[6](20/77): Avg. Loss: 0.2605
+===> Epoch[6](30/77): Avg. Loss: 0.2302
+===> Epoch[6](40/77): Avg. Loss: 0.2077
+===> Epoch[6](50/77): Avg. Loss: 0.3968
+===> Epoch[6](60/77): Avg. Loss: 0.2633
+===> Epoch[6](70/77): Avg. Loss: 0.2753
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.386018 
+===> Epoch[7](10/77): Avg. Loss: 0.1392
+===> Epoch[7](20/77): Avg. Loss: 0.2370
+===> Epoch[7](30/77): Avg. Loss: 0.2060
+===> Epoch[7](40/77): Avg. Loss: 0.2373
+===> Epoch[7](50/77): Avg. Loss: 0.2512
+===> Epoch[7](60/77): Avg. Loss: 0.2074
+===> Epoch[7](70/77): Avg. Loss: 0.2962
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.481938 
+===> Epoch[8](10/77): Avg. Loss: 0.2749
+===> Epoch[8](20/77): Avg. Loss: 0.2012
+===> Epoch[8](30/77): Avg. Loss: 0.2080
+===> Epoch[8](40/77): Avg. Loss: 0.2660
+===> Epoch[8](50/77): Avg. Loss: 0.1988
+===> Epoch[8](60/77): Avg. Loss: 0.2139
+===> Epoch[8](70/77): Avg. Loss: 0.2437
+Val Error: 
+	Accuracy: 86.5%, Avg loss: 0.524747 
+===> Epoch[9](10/77): Avg. Loss: 0.2348
+===> Epoch[9](20/77): Avg. Loss: 0.2105
+===> Epoch[9](30/77): Avg. Loss: 0.1644
+===> Epoch[9](40/77): Avg. Loss: 0.1047
+===> Epoch[9](50/77): Avg. Loss: 0.1390
+===> Epoch[9](60/77): Avg. Loss: 0.1367
+===> Epoch[9](70/77): Avg. Loss: 0.1292
+Val Error: 
+	Accuracy: 74.6%, Avg loss: 1.075031 
+===> Epoch[10](10/77): Avg. Loss: 0.1235
+===> Epoch[10](20/77): Avg. Loss: 0.2653
+===> Epoch[10](30/77): Avg. Loss: 0.3189
+===> Epoch[10](40/77): Avg. Loss: 0.4471
+===> Epoch[10](50/77): Avg. Loss: 0.2775
+===> Epoch[10](60/77): Avg. Loss: 0.2857
+===> Epoch[10](70/77): Avg. Loss: 0.2673
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.555117 
+===> Epoch[11](10/77): Avg. Loss: 0.1731
+===> Epoch[11](20/77): Avg. Loss: 0.1653
+===> Epoch[11](30/77): Avg. Loss: 0.1999
+===> Epoch[11](40/77): Avg. Loss: 0.1412
+===> Epoch[11](50/77): Avg. Loss: 0.2896
+===> Epoch[11](60/77): Avg. Loss: 0.1215
+===> Epoch[11](70/77): Avg. Loss: 0.1779
+Val Error: 
+	Accuracy: 88.1%, Avg loss: 0.374360 
+===> Epoch[12](10/77): Avg. Loss: 0.1090
+===> Epoch[12](20/77): Avg. Loss: 0.2140
+===> Epoch[12](30/77): Avg. Loss: 0.2488
+===> Epoch[12](40/77): Avg. Loss: 0.1902
+===> Epoch[12](50/77): Avg. Loss: 0.2102
+===> Epoch[12](60/77): Avg. Loss: 0.2668
+===> Epoch[12](70/77): Avg. Loss: 0.3174
+Val Error: 
+	Accuracy: 83.4%, Avg loss: 0.500817 
+===> Epoch[13](10/77): Avg. Loss: 0.2279
+===> Epoch[13](20/77): Avg. Loss: 0.2059
+===> Epoch[13](30/77): Avg. Loss: 0.1727
+===> Epoch[13](40/77): Avg. Loss: 0.2221
+===> Epoch[13](50/77): Avg. Loss: 0.1642
+===> Epoch[13](60/77): Avg. Loss: 0.2367
+===> Epoch[13](70/77): Avg. Loss: 0.1378
+Val Error: 
+	Accuracy: 89.1%, Avg loss: 0.430929 
+===> Epoch[14](10/77): Avg. Loss: 0.0905
+===> Epoch[14](20/77): Avg. Loss: 0.1397
+===> Epoch[14](30/77): Avg. Loss: 0.1782
+===> Epoch[14](40/77): Avg. Loss: 0.1207
+===> Epoch[14](50/77): Avg. Loss: 0.0943
+===> Epoch[14](60/77): Avg. Loss: 0.2292
+===> Epoch[14](70/77): Avg. Loss: 0.1535
+Val Error: 
+	Accuracy: 80.3%, Avg loss: 0.718670 
+===> Epoch[15](10/77): Avg. Loss: 0.2441
+===> Epoch[15](20/77): Avg. Loss: 0.1429
+===> Epoch[15](30/77): Avg. Loss: 0.1386
+===> Epoch[15](40/77): Avg. Loss: 0.1684
+===> Epoch[15](50/77): Avg. Loss: 0.1412
+===> Epoch[15](60/77): Avg. Loss: 0.0778
+===> Epoch[15](70/77): Avg. Loss: 0.1043
+Val Error: 
+	Accuracy: 87.0%, Avg loss: 0.507914 
+===> Epoch[16](10/77): Avg. Loss: 0.0709
+===> Epoch[16](20/77): Avg. Loss: 0.0970
+===> Epoch[16](30/77): Avg. Loss: 0.2134
+===> Epoch[16](40/77): Avg. Loss: 0.2434
+===> Epoch[16](50/77): Avg. Loss: 0.2205
+===> Epoch[16](60/77): Avg. Loss: 0.2200
+===> Epoch[16](70/77): Avg. Loss: 0.2090
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.604026 
+===> Epoch[17](10/77): Avg. Loss: 0.2650
+===> Epoch[17](20/77): Avg. Loss: 0.1225
+===> Epoch[17](30/77): Avg. Loss: 0.0761
+===> Epoch[17](40/77): Avg. Loss: 0.1170
+===> Epoch[17](50/77): Avg. Loss: 0.1086
+===> Epoch[17](60/77): Avg. Loss: 0.1469
+===> Epoch[17](70/77): Avg. Loss: 0.1166
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.425327 
+===> Epoch[18](10/77): Avg. Loss: 0.1728
+===> Epoch[18](20/77): Avg. Loss: 0.0972
+===> Epoch[18](30/77): Avg. Loss: 0.1766
+===> Epoch[18](40/77): Avg. Loss: 0.1035
+===> Epoch[18](50/77): Avg. Loss: 0.1898
+===> Epoch[18](60/77): Avg. Loss: 0.1256
+===> Epoch[18](70/77): Avg. Loss: 0.0901
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.493303 
+===> Epoch[19](10/77): Avg. Loss: 0.0646
+===> Epoch[19](20/77): Avg. Loss: 0.1649
+===> Epoch[19](30/77): Avg. Loss: 0.1926
+===> Epoch[19](40/77): Avg. Loss: 0.0726
+===> Epoch[19](50/77): Avg. Loss: 0.1131
+===> Epoch[19](60/77): Avg. Loss: 0.1109
+===> Epoch[19](70/77): Avg. Loss: 0.1944
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.811780 
+===> Epoch[20](10/77): Avg. Loss: 0.1010
+===> Epoch[20](20/77): Avg. Loss: 0.1348
+===> Epoch[20](30/77): Avg. Loss: 0.1043
+===> Epoch[20](40/77): Avg. Loss: 0.1154
+===> Epoch[20](50/77): Avg. Loss: 0.1278
+===> Epoch[20](60/77): Avg. Loss: 0.1431
+===> Epoch[20](70/77): Avg. Loss: 0.1513
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.427964 
+===> Epoch[21](10/77): Avg. Loss: 0.1116
+===> Epoch[21](20/77): Avg. Loss: 0.1052
+===> Epoch[21](30/77): Avg. Loss: 0.2427
+===> Epoch[21](40/77): Avg. Loss: 0.1613
+===> Epoch[21](50/77): Avg. Loss: 0.2480
+===> Epoch[21](60/77): Avg. Loss: 0.1103
+===> Epoch[21](70/77): Avg. Loss: 0.0608
+Val Error: 
+	Accuracy: 86.5%, Avg loss: 0.414909 
+===> Epoch[22](10/77): Avg. Loss: 0.1007
+===> Epoch[22](20/77): Avg. Loss: 0.1538
+===> Epoch[22](30/77): Avg. Loss: 0.2571
+===> Epoch[22](40/77): Avg. Loss: 0.1109
+===> Epoch[22](50/77): Avg. Loss: 0.1417
+===> Epoch[22](60/77): Avg. Loss: 0.1066
+===> Epoch[22](70/77): Avg. Loss: 0.1006
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.566873 
+===> Epoch[23](10/77): Avg. Loss: 0.1228
+===> Epoch[23](20/77): Avg. Loss: 0.1032
+===> Epoch[23](30/77): Avg. Loss: 0.1221
+===> Epoch[23](40/77): Avg. Loss: 0.1981
+===> Epoch[23](50/77): Avg. Loss: 0.1721
+===> Epoch[23](60/77): Avg. Loss: 0.0844
+===> Epoch[23](70/77): Avg. Loss: 0.0942
+Val Error: 
+	Accuracy: 86.5%, Avg loss: 0.446401 
+===> Epoch[24](10/77): Avg. Loss: 0.0898
+===> Epoch[24](20/77): Avg. Loss: 0.1177
+===> Epoch[24](30/77): Avg. Loss: 0.1437
+===> Epoch[24](40/77): Avg. Loss: 0.1164
+===> Epoch[24](50/77): Avg. Loss: 0.0910
+===> Epoch[24](60/77): Avg. Loss: 0.2407
+===> Epoch[24](70/77): Avg. Loss: 0.1275
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.508135 
+===> Epoch[25](10/77): Avg. Loss: 0.0884
+===> Epoch[25](20/77): Avg. Loss: 0.1262
+===> Epoch[25](30/77): Avg. Loss: 0.1797
+===> Epoch[25](40/77): Avg. Loss: 0.1875
+===> Epoch[25](50/77): Avg. Loss: 0.1258
+===> Epoch[25](60/77): Avg. Loss: 0.1531
+===> Epoch[25](70/77): Avg. Loss: 0.1552
+Val Error: 
+	Accuracy: 87.0%, Avg loss: 0.433168 
+===> Epoch[26](10/77): Avg. Loss: 0.2136
+===> Epoch[26](20/77): Avg. Loss: 0.1155
+===> Epoch[26](30/77): Avg. Loss: 0.0806
+===> Epoch[26](40/77): Avg. Loss: 0.0880
+===> Epoch[26](50/77): Avg. Loss: 0.1571
+===> Epoch[26](60/77): Avg. Loss: 0.2456
+===> Epoch[26](70/77): Avg. Loss: 0.1382
+Val Error: 
+	Accuracy: 80.3%, Avg loss: 0.642307 
+===> Epoch[27](10/77): Avg. Loss: 0.1206
+===> Epoch[27](20/77): Avg. Loss: 0.1379
+===> Epoch[27](30/77): Avg. Loss: 0.2122
+===> Epoch[27](40/77): Avg. Loss: 0.1104
+===> Epoch[27](50/77): Avg. Loss: 0.1287
+===> Epoch[27](60/77): Avg. Loss: 0.2552
+===> Epoch[27](70/77): Avg. Loss: 0.1026
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.544723 
+===> Epoch[28](10/77): Avg. Loss: 0.1551
+===> Epoch[28](20/77): Avg. Loss: 0.0863
+===> Epoch[28](30/77): Avg. Loss: 0.0674
+===> Epoch[28](40/77): Avg. Loss: 0.1589
+===> Epoch[28](50/77): Avg. Loss: 0.1912
+===> Epoch[28](60/77): Avg. Loss: 0.1292
+===> Epoch[28](70/77): Avg. Loss: 0.1372
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.555171 
+===> Epoch[29](10/77): Avg. Loss: 0.0925
+===> Epoch[29](20/77): Avg. Loss: 0.0664
+===> Epoch[29](30/77): Avg. Loss: 0.1789
+===> Epoch[29](40/77): Avg. Loss: 0.0857
+===> Epoch[29](50/77): Avg. Loss: 0.0766
+===> Epoch[29](60/77): Avg. Loss: 0.0926
+===> Epoch[29](70/77): Avg. Loss: 0.0577
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.625036 
+===> Epoch[30](10/77): Avg. Loss: 0.0621
+===> Epoch[30](20/77): Avg. Loss: 0.1270
+===> Epoch[30](30/77): Avg. Loss: 0.1215
+===> Epoch[30](40/77): Avg. Loss: 0.0840
+===> Epoch[30](50/77): Avg. Loss: 0.0878
+===> Epoch[30](60/77): Avg. Loss: 0.1115
+===> Epoch[30](70/77): Avg. Loss: 0.2099
+Val Error: 
+	Accuracy: 79.3%, Avg loss: 0.857990 
+===> Epoch[31](10/77): Avg. Loss: 0.1383
+===> Epoch[31](20/77): Avg. Loss: 0.1081
+===> Epoch[31](30/77): Avg. Loss: 0.0849
+===> Epoch[31](40/77): Avg. Loss: 0.1668
+===> Epoch[31](50/77): Avg. Loss: 0.1240
+===> Epoch[31](60/77): Avg. Loss: 0.2178
+===> Epoch[31](70/77): Avg. Loss: 0.1484
+Val Error: 
+	Accuracy: 83.9%, Avg loss: 0.562430 
+===> Epoch[32](10/77): Avg. Loss: 0.1400
+===> Epoch[32](20/77): Avg. Loss: 0.1811
+===> Epoch[32](30/77): Avg. Loss: 0.1171
+===> Epoch[32](40/77): Avg. Loss: 0.0971
+===> Epoch[32](50/77): Avg. Loss: 0.1640
+===> Epoch[32](60/77): Avg. Loss: 0.1692
+===> Epoch[32](70/77): Avg. Loss: 0.1086
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.751591 
+===> Epoch[33](10/77): Avg. Loss: 0.1099
+===> Epoch[33](20/77): Avg. Loss: 0.1893
+===> Epoch[33](30/77): Avg. Loss: 0.3144
+===> Epoch[33](40/77): Avg. Loss: 0.1806
+===> Epoch[33](50/77): Avg. Loss: 0.1760
+===> Epoch[33](60/77): Avg. Loss: 0.2015
+===> Epoch[33](70/77): Avg. Loss: 0.1130
+Val Error: 
+	Accuracy: 86.0%, Avg loss: 0.585823 
+===> Epoch[34](10/77): Avg. Loss: 0.0664
+===> Epoch[34](20/77): Avg. Loss: 0.0932
+===> Epoch[34](30/77): Avg. Loss: 0.1069
+===> Epoch[34](40/77): Avg. Loss: 0.1503
+===> Epoch[34](50/77): Avg. Loss: 0.1062
+===> Epoch[34](60/77): Avg. Loss: 0.1018
+===> Epoch[34](70/77): Avg. Loss: 0.0655
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.656109 
+===> Epoch[35](10/77): Avg. Loss: 0.1034
+===> Epoch[35](20/77): Avg. Loss: 0.1251
+===> Epoch[35](30/77): Avg. Loss: 0.1031
+===> Epoch[35](40/77): Avg. Loss: 0.1063
+===> Epoch[35](50/77): Avg. Loss: 0.1140
+===> Epoch[35](60/77): Avg. Loss: 0.1509
+===> Epoch[35](70/77): Avg. Loss: 0.0539
+Val Error: 
+	Accuracy: 86.0%, Avg loss: 0.549377 
+===> Epoch[36](10/77): Avg. Loss: 0.1004
+===> Epoch[36](20/77): Avg. Loss: 0.0706
+===> Epoch[36](30/77): Avg. Loss: 0.0854
+===> Epoch[36](40/77): Avg. Loss: 0.0611
+===> Epoch[36](50/77): Avg. Loss: 0.1954
+===> Epoch[36](60/77): Avg. Loss: 0.1371
+===> Epoch[36](70/77): Avg. Loss: 0.1052
+Val Error: 
+	Accuracy: 87.6%, Avg loss: 0.527311 
+===> Epoch[37](10/77): Avg. Loss: 0.0788
+===> Epoch[37](20/77): Avg. Loss: 0.1153
+===> Epoch[37](30/77): Avg. Loss: 0.0915
+===> Epoch[37](40/77): Avg. Loss: 0.0546
+===> Epoch[37](50/77): Avg. Loss: 0.1130
+===> Epoch[37](60/77): Avg. Loss: 0.1294
+===> Epoch[37](70/77): Avg. Loss: 0.0907
+Val Error: 
+	Accuracy: 86.0%, Avg loss: 0.609750 
+===> Epoch[38](10/77): Avg. Loss: 0.1368
+===> Epoch[38](20/77): Avg. Loss: 0.1128
+===> Epoch[38](30/77): Avg. Loss: 0.1057
+===> Epoch[38](40/77): Avg. Loss: 0.0934
+===> Epoch[38](50/77): Avg. Loss: 0.0911
+===> Epoch[38](60/77): Avg. Loss: 0.1644
+===> Epoch[38](70/77): Avg. Loss: 0.0892
+Val Error: 
+	Accuracy: 88.1%, Avg loss: 0.454947 
+===> Epoch[39](10/77): Avg. Loss: 0.0427
+===> Epoch[39](20/77): Avg. Loss: 0.0726
+===> Epoch[39](30/77): Avg. Loss: 0.1294
+===> Epoch[39](40/77): Avg. Loss: 0.1137
+===> Epoch[39](50/77): Avg. Loss: 0.0754
+===> Epoch[39](60/77): Avg. Loss: 0.1144
+===> Epoch[39](70/77): Avg. Loss: 0.0948
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.654088 
+===> Epoch[40](10/77): Avg. Loss: 0.0770
+===> Epoch[40](20/77): Avg. Loss: 0.0218
+===> Epoch[40](30/77): Avg. Loss: 0.0510
+===> Epoch[40](40/77): Avg. Loss: 0.0422
+===> Epoch[40](50/77): Avg. Loss: 0.0874
+===> Epoch[40](60/77): Avg. Loss: 0.1551
+===> Epoch[40](70/77): Avg. Loss: 0.0872
+Val Error: 
+	Accuracy: 83.9%, Avg loss: 0.697874 
+===> Epoch[41](10/77): Avg. Loss: 0.1009
+===> Epoch[41](20/77): Avg. Loss: 0.1001
+===> Epoch[41](30/77): Avg. Loss: 0.1263
+===> Epoch[41](40/77): Avg. Loss: 0.1074
+===> Epoch[41](50/77): Avg. Loss: 0.1661
+===> Epoch[41](60/77): Avg. Loss: 0.0927
+===> Epoch[41](70/77): Avg. Loss: 0.0846
+Val Error: 
+	Accuracy: 90.2%, Avg loss: 0.362155 
+===> Epoch[42](10/77): Avg. Loss: 0.1785
+===> Epoch[42](20/77): Avg. Loss: 0.0791
+===> Epoch[42](30/77): Avg. Loss: 0.1092
+===> Epoch[42](40/77): Avg. Loss: 0.1830
+===> Epoch[42](50/77): Avg. Loss: 0.1108
+===> Epoch[42](60/77): Avg. Loss: 0.1815
+===> Epoch[42](70/77): Avg. Loss: 0.1256
+Val Error: 
+	Accuracy: 78.2%, Avg loss: 0.668192 
+===> Epoch[43](10/77): Avg. Loss: 0.1667
+===> Epoch[43](20/77): Avg. Loss: 0.2091
+===> Epoch[43](30/77): Avg. Loss: 0.1794
+===> Epoch[43](40/77): Avg. Loss: 0.1309
+===> Epoch[43](50/77): Avg. Loss: 0.0807
+===> Epoch[43](60/77): Avg. Loss: 0.0354
+===> Epoch[43](70/77): Avg. Loss: 0.0557
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.838508 
+===> Epoch[44](10/77): Avg. Loss: 0.0384
+===> Epoch[44](20/77): Avg. Loss: 0.0545
+===> Epoch[44](30/77): Avg. Loss: 0.0907
+===> Epoch[44](40/77): Avg. Loss: 0.1597
+===> Epoch[44](50/77): Avg. Loss: 0.0774
+===> Epoch[44](60/77): Avg. Loss: 0.0898
+===> Epoch[44](70/77): Avg. Loss: 0.0498
+Val Error: 
+	Accuracy: 86.5%, Avg loss: 0.501897 
+===> Epoch[45](10/77): Avg. Loss: 0.0631
+===> Epoch[45](20/77): Avg. Loss: 0.0485
+===> Epoch[45](30/77): Avg. Loss: 0.1058
+===> Epoch[45](40/77): Avg. Loss: 0.1626
+===> Epoch[45](50/77): Avg. Loss: 0.1196
+===> Epoch[45](60/77): Avg. Loss: 0.0581
+===> Epoch[45](70/77): Avg. Loss: 0.0966
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.686274 
+===> Epoch[46](10/77): Avg. Loss: 0.1082
+===> Epoch[46](20/77): Avg. Loss: 0.1335
+===> Epoch[46](30/77): Avg. Loss: 0.0360
+===> Epoch[46](40/77): Avg. Loss: 0.1453
+===> Epoch[46](50/77): Avg. Loss: 0.0613
+===> Epoch[46](60/77): Avg. Loss: 0.1130
+===> Epoch[46](70/77): Avg. Loss: 0.0782
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.599881 
+===> Epoch[47](10/77): Avg. Loss: 0.0940
+===> Epoch[47](20/77): Avg. Loss: 0.0800
+===> Epoch[47](30/77): Avg. Loss: 0.1189
+===> Epoch[47](40/77): Avg. Loss: 0.1429
+===> Epoch[47](50/77): Avg. Loss: 0.0686
+===> Epoch[47](60/77): Avg. Loss: 0.0767
+===> Epoch[47](70/77): Avg. Loss: 0.1064
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.796932 
+===> Epoch[48](10/77): Avg. Loss: 0.0695
+===> Epoch[48](20/77): Avg. Loss: 0.1225
+===> Epoch[48](30/77): Avg. Loss: 0.1446
+===> Epoch[48](40/77): Avg. Loss: 0.1327
+===> Epoch[48](50/77): Avg. Loss: 0.0887
+===> Epoch[48](60/77): Avg. Loss: 0.0884
+===> Epoch[48](70/77): Avg. Loss: 0.0963
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.812706 
+===> Epoch[49](10/77): Avg. Loss: 0.1064
+===> Epoch[49](20/77): Avg. Loss: 0.0948
+===> Epoch[49](30/77): Avg. Loss: 0.0583
+===> Epoch[49](40/77): Avg. Loss: 0.0715
+===> Epoch[49](50/77): Avg. Loss: 0.1056
+===> Epoch[49](60/77): Avg. Loss: 0.0956
+===> Epoch[49](70/77): Avg. Loss: 0.1991
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.707672 
+===> Epoch[50](10/77): Avg. Loss: 0.0592
+===> Epoch[50](20/77): Avg. Loss: 0.0471
+===> Epoch[50](30/77): Avg. Loss: 0.1154
+===> Epoch[50](40/77): Avg. Loss: 0.0626
+===> Epoch[50](50/77): Avg. Loss: 0.0973
+===> Epoch[50](60/77): Avg. Loss: 0.0917
+===> Epoch[50](70/77): Avg. Loss: 0.1512
+Val Error: 
+	Accuracy: 83.4%, Avg loss: 0.602964 
+===> Epoch[51](10/77): Avg. Loss: 0.0740
+===> Epoch[51](20/77): Avg. Loss: 0.0957
+===> Epoch[51](30/77): Avg. Loss: 0.1710
+===> Epoch[51](40/77): Avg. Loss: 0.1673
+===> Epoch[51](50/77): Avg. Loss: 0.1120
+===> Epoch[51](60/77): Avg. Loss: 0.0930
+===> Epoch[51](70/77): Avg. Loss: 0.1296
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.826098 
+===> Epoch[52](10/77): Avg. Loss: 0.0843
+===> Epoch[52](20/77): Avg. Loss: 0.1053
+===> Epoch[52](30/77): Avg. Loss: 0.0923
+===> Epoch[52](40/77): Avg. Loss: 0.1237
+===> Epoch[52](50/77): Avg. Loss: 0.0976
+===> Epoch[52](60/77): Avg. Loss: 0.1673
+===> Epoch[52](70/77): Avg. Loss: 0.2063
+Val Error: 
+	Accuracy: 78.8%, Avg loss: 1.023703 
+===> Epoch[53](10/77): Avg. Loss: 0.0785
+===> Epoch[53](20/77): Avg. Loss: 0.0655
+===> Epoch[53](30/77): Avg. Loss: 0.0911
+===> Epoch[53](40/77): Avg. Loss: 0.1262
+===> Epoch[53](50/77): Avg. Loss: 0.1179
+===> Epoch[53](60/77): Avg. Loss: 0.1325
+===> Epoch[53](70/77): Avg. Loss: 0.1426
+Val Error: 
+	Accuracy: 78.2%, Avg loss: 1.020891 
+===> Epoch[54](10/77): Avg. Loss: 0.0894
+===> Epoch[54](20/77): Avg. Loss: 0.1996
+===> Epoch[54](30/77): Avg. Loss: 0.1015
+===> Epoch[54](40/77): Avg. Loss: 0.1348
+===> Epoch[54](50/77): Avg. Loss: 0.1286
+===> Epoch[54](60/77): Avg. Loss: 0.0863
+===> Epoch[54](70/77): Avg. Loss: 0.0888
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.780504 
+===> Epoch[55](10/77): Avg. Loss: 0.1137
+===> Epoch[55](20/77): Avg. Loss: 0.0920
+===> Epoch[55](30/77): Avg. Loss: 0.0902
+===> Epoch[55](40/77): Avg. Loss: 0.0982
+===> Epoch[55](50/77): Avg. Loss: 0.1265
+===> Epoch[55](60/77): Avg. Loss: 0.0870
+===> Epoch[55](70/77): Avg. Loss: 0.1295
+Val Error: 
+	Accuracy: 80.8%, Avg loss: 0.677385 
+===> Epoch[56](10/77): Avg. Loss: 0.0999
+===> Epoch[56](20/77): Avg. Loss: 0.1076
+===> Epoch[56](30/77): Avg. Loss: 0.0723
+===> Epoch[56](40/77): Avg. Loss: 0.0935
+===> Epoch[56](50/77): Avg. Loss: 0.0872
+===> Epoch[56](60/77): Avg. Loss: 0.1030
+===> Epoch[56](70/77): Avg. Loss: 0.0648
+Val Error: 
+	Accuracy: 87.0%, Avg loss: 0.494754 
+===> Epoch[57](10/77): Avg. Loss: 0.1502
+===> Epoch[57](20/77): Avg. Loss: 0.0694
+===> Epoch[57](30/77): Avg. Loss: 0.2046
+===> Epoch[57](40/77): Avg. Loss: 0.1396
+===> Epoch[57](50/77): Avg. Loss: 0.0652
+===> Epoch[57](60/77): Avg. Loss: 0.0721
+===> Epoch[57](70/77): Avg. Loss: 0.1091
+Val Error: 
+	Accuracy: 83.4%, Avg loss: 0.673038 
+===> Epoch[58](10/77): Avg. Loss: 0.0770
+===> Epoch[58](20/77): Avg. Loss: 0.1183
+===> Epoch[58](30/77): Avg. Loss: 0.1448
+===> Epoch[58](40/77): Avg. Loss: 0.0886
+===> Epoch[58](50/77): Avg. Loss: 0.0661
+===> Epoch[58](60/77): Avg. Loss: 0.1369
+===> Epoch[58](70/77): Avg. Loss: 0.0820
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.503820 
+===> Epoch[59](10/77): Avg. Loss: 0.0616
+===> Epoch[59](20/77): Avg. Loss: 0.1192
+===> Epoch[59](30/77): Avg. Loss: 0.0929
+===> Epoch[59](40/77): Avg. Loss: 0.0584
+===> Epoch[59](50/77): Avg. Loss: 0.0666
+===> Epoch[59](60/77): Avg. Loss: 0.0671
+===> Epoch[59](70/77): Avg. Loss: 0.0770
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.511348 
+===> Epoch[60](10/77): Avg. Loss: 0.1203
+===> Epoch[60](20/77): Avg. Loss: 0.0629
+===> Epoch[60](30/77): Avg. Loss: 0.1585
+===> Epoch[60](40/77): Avg. Loss: 0.0680
+===> Epoch[60](50/77): Avg. Loss: 0.0805
+===> Epoch[60](60/77): Avg. Loss: 0.0933
+===> Epoch[60](70/77): Avg. Loss: 0.0885
+Val Error: 
+	Accuracy: 88.1%, Avg loss: 0.408678 
+===> Epoch[61](10/77): Avg. Loss: 0.0612
+===> Epoch[61](20/77): Avg. Loss: 0.0588
+===> Epoch[61](30/77): Avg. Loss: 0.0783
+===> Epoch[61](40/77): Avg. Loss: 0.0336
+===> Epoch[61](50/77): Avg. Loss: 0.0722
+===> Epoch[61](60/77): Avg. Loss: 0.0673
+===> Epoch[61](70/77): Avg. Loss: 0.1309
+Val Error: 
+	Accuracy: 87.0%, Avg loss: 0.573801 
+===> Epoch[62](10/77): Avg. Loss: 0.0463
+===> Epoch[62](20/77): Avg. Loss: 0.0833
+===> Epoch[62](30/77): Avg. Loss: 0.0737
+===> Epoch[62](40/77): Avg. Loss: 0.0460
+===> Epoch[62](50/77): Avg. Loss: 0.1320
+===> Epoch[62](60/77): Avg. Loss: 0.1494
+===> Epoch[62](70/77): Avg. Loss: 0.1017
+Val Error: 
+	Accuracy: 86.0%, Avg loss: 0.595948 
+===> Epoch[63](10/77): Avg. Loss: 0.0605
+===> Epoch[63](20/77): Avg. Loss: 0.0766
+===> Epoch[63](30/77): Avg. Loss: 0.0978
+===> Epoch[63](40/77): Avg. Loss: 0.0474
+===> Epoch[63](50/77): Avg. Loss: 0.1313
+===> Epoch[63](60/77): Avg. Loss: 0.0601
+===> Epoch[63](70/77): Avg. Loss: 0.0471
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.731160 
+===> Epoch[64](10/77): Avg. Loss: 0.1134
+===> Epoch[64](20/77): Avg. Loss: 0.0460
+===> Epoch[64](30/77): Avg. Loss: 0.0728
+===> Epoch[64](40/77): Avg. Loss: 0.0394
+===> Epoch[64](50/77): Avg. Loss: 0.0383
+===> Epoch[64](60/77): Avg. Loss: 0.1137
+===> Epoch[64](70/77): Avg. Loss: 0.0415
+Val Error: 
+	Accuracy: 79.3%, Avg loss: 0.992868 
+===> Epoch[65](10/77): Avg. Loss: 0.0536
+===> Epoch[65](20/77): Avg. Loss: 0.0457
+===> Epoch[65](30/77): Avg. Loss: 0.0721
+===> Epoch[65](40/77): Avg. Loss: 0.0815
+===> Epoch[65](50/77): Avg. Loss: 0.1443
+===> Epoch[65](60/77): Avg. Loss: 0.0491
+===> Epoch[65](70/77): Avg. Loss: 0.0924
+Val Error: 
+	Accuracy: 83.9%, Avg loss: 0.759528 
+===> Epoch[66](10/77): Avg. Loss: 0.0673
+===> Epoch[66](20/77): Avg. Loss: 0.1332
+===> Epoch[66](30/77): Avg. Loss: 0.0827
+===> Epoch[66](40/77): Avg. Loss: 0.0745
+===> Epoch[66](50/77): Avg. Loss: 0.0812
+===> Epoch[66](60/77): Avg. Loss: 0.1020
+===> Epoch[66](70/77): Avg. Loss: 0.0524
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.652766 
+===> Epoch[67](10/77): Avg. Loss: 0.0761
+===> Epoch[67](20/77): Avg. Loss: 0.0648
+===> Epoch[67](30/77): Avg. Loss: 0.0819
+===> Epoch[67](40/77): Avg. Loss: 0.1093
+===> Epoch[67](50/77): Avg. Loss: 0.1353
+===> Epoch[67](60/77): Avg. Loss: 0.1325
+===> Epoch[67](70/77): Avg. Loss: 0.0969
+Val Error: 
+	Accuracy: 78.2%, Avg loss: 0.954511 
+===> Epoch[68](10/77): Avg. Loss: 0.0826
+===> Epoch[68](20/77): Avg. Loss: 0.1653
+===> Epoch[68](30/77): Avg. Loss: 0.1030
+===> Epoch[68](40/77): Avg. Loss: 0.1202
+===> Epoch[68](50/77): Avg. Loss: 0.2005
+===> Epoch[68](60/77): Avg. Loss: 0.1366
+===> Epoch[68](70/77): Avg. Loss: 0.1018
+Val Error: 
+	Accuracy: 83.4%, Avg loss: 0.648576 
+===> Epoch[69](10/77): Avg. Loss: 0.0838
+===> Epoch[69](20/77): Avg. Loss: 0.0414
+===> Epoch[69](30/77): Avg. Loss: 0.0374
+===> Epoch[69](40/77): Avg. Loss: 0.1024
+===> Epoch[69](50/77): Avg. Loss: 0.0961
+===> Epoch[69](60/77): Avg. Loss: 0.1008
+===> Epoch[69](70/77): Avg. Loss: 0.0986
+Val Error: 
+	Accuracy: 79.3%, Avg loss: 0.782265 
+===> Epoch[70](10/77): Avg. Loss: 0.1378
+===> Epoch[70](20/77): Avg. Loss: 0.1797
+===> Epoch[70](30/77): Avg. Loss: 0.0704
+===> Epoch[70](40/77): Avg. Loss: 0.0497
+===> Epoch[70](50/77): Avg. Loss: 0.1288
+===> Epoch[70](60/77): Avg. Loss: 0.0789
+===> Epoch[70](70/77): Avg. Loss: 0.0518
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.744755 
+===> Epoch[71](10/77): Avg. Loss: 0.0954
+===> Epoch[71](20/77): Avg. Loss: 0.1227
+===> Epoch[71](30/77): Avg. Loss: 0.0605
+===> Epoch[71](40/77): Avg. Loss: 0.0626
+===> Epoch[71](50/77): Avg. Loss: 0.0842
+===> Epoch[71](60/77): Avg. Loss: 0.1160
+===> Epoch[71](70/77): Avg. Loss: 0.0798
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.795914 
+===> Epoch[72](10/77): Avg. Loss: 0.1276
+===> Epoch[72](20/77): Avg. Loss: 0.0598
+===> Epoch[72](30/77): Avg. Loss: 0.0549
+===> Epoch[72](40/77): Avg. Loss: 0.0457
+===> Epoch[72](50/77): Avg. Loss: 0.0803
+===> Epoch[72](60/77): Avg. Loss: 0.0964
+===> Epoch[72](70/77): Avg. Loss: 0.1058
+Val Error: 
+	Accuracy: 75.6%, Avg loss: 1.157238 
+===> Epoch[73](10/77): Avg. Loss: 0.1011
+===> Epoch[73](20/77): Avg. Loss: 0.1542
+===> Epoch[73](30/77): Avg. Loss: 0.2609
+===> Epoch[73](40/77): Avg. Loss: 0.2130
+===> Epoch[73](50/77): Avg. Loss: 0.0610
+===> Epoch[73](60/77): Avg. Loss: 0.0436
+===> Epoch[73](70/77): Avg. Loss: 0.0831
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.973648 
+===> Epoch[74](10/77): Avg. Loss: 0.1051
+===> Epoch[74](20/77): Avg. Loss: 0.2057
+===> Epoch[74](30/77): Avg. Loss: 0.1408
+===> Epoch[74](40/77): Avg. Loss: 0.1279
+===> Epoch[74](50/77): Avg. Loss: 0.1377
+===> Epoch[74](60/77): Avg. Loss: 0.0713
+===> Epoch[74](70/77): Avg. Loss: 0.0670
+Val Error: 
+	Accuracy: 87.6%, Avg loss: 0.444941 
+===> Epoch[75](10/77): Avg. Loss: 0.0557
+===> Epoch[75](20/77): Avg. Loss: 0.1009
+===> Epoch[75](30/77): Avg. Loss: 0.1124
+===> Epoch[75](40/77): Avg. Loss: 0.1030
+===> Epoch[75](50/77): Avg. Loss: 0.0956
+===> Epoch[75](60/77): Avg. Loss: 0.1778
+===> Epoch[75](70/77): Avg. Loss: 0.1038
+Val Error: 
+	Accuracy: 79.8%, Avg loss: 0.784308 
+===> Epoch[76](10/77): Avg. Loss: 0.0887
+===> Epoch[76](20/77): Avg. Loss: 0.0705
+===> Epoch[76](30/77): Avg. Loss: 0.0795
+===> Epoch[76](40/77): Avg. Loss: 0.0480
+===> Epoch[76](50/77): Avg. Loss: 0.0818
+===> Epoch[76](60/77): Avg. Loss: 0.0397
+===> Epoch[76](70/77): Avg. Loss: 0.0396
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.764869 
+===> Epoch[77](10/77): Avg. Loss: 0.0993
+===> Epoch[77](20/77): Avg. Loss: 0.1454
+===> Epoch[77](30/77): Avg. Loss: 0.0619
+===> Epoch[77](40/77): Avg. Loss: 0.1406
+===> Epoch[77](50/77): Avg. Loss: 0.0502
+===> Epoch[77](60/77): Avg. Loss: 0.1587
+===> Epoch[77](70/77): Avg. Loss: 0.0428
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.704121 
+===> Epoch[78](10/77): Avg. Loss: 0.0750
+===> Epoch[78](20/77): Avg. Loss: 0.0966
+===> Epoch[78](30/77): Avg. Loss: 0.0610
+===> Epoch[78](40/77): Avg. Loss: 0.0488
+===> Epoch[78](50/77): Avg. Loss: 0.1525
+===> Epoch[78](60/77): Avg. Loss: 0.1170
+===> Epoch[78](70/77): Avg. Loss: 0.1353
+Val Error: 
+	Accuracy: 79.8%, Avg loss: 1.056573 
+===> Epoch[79](10/77): Avg. Loss: 0.0704
+===> Epoch[79](20/77): Avg. Loss: 0.0951
+===> Epoch[79](30/77): Avg. Loss: 0.0453
+===> Epoch[79](40/77): Avg. Loss: 0.0882
+===> Epoch[79](50/77): Avg. Loss: 0.0619
+===> Epoch[79](60/77): Avg. Loss: 0.0895
+===> Epoch[79](70/77): Avg. Loss: 0.0545
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.926166 
+===> Epoch[80](10/77): Avg. Loss: 0.0610
+===> Epoch[80](20/77): Avg. Loss: 0.0739
+===> Epoch[80](30/77): Avg. Loss: 0.0508
+===> Epoch[80](40/77): Avg. Loss: 0.0662
+===> Epoch[80](50/77): Avg. Loss: 0.2067
+===> Epoch[80](60/77): Avg. Loss: 0.0778
+===> Epoch[80](70/77): Avg. Loss: 0.1104
+Val Error: 
+	Accuracy: 88.6%, Avg loss: 0.335011 
+===> Epoch[81](10/77): Avg. Loss: 0.1027
+===> Epoch[81](20/77): Avg. Loss: 0.0848
+===> Epoch[81](30/77): Avg. Loss: 0.0516
+===> Epoch[81](40/77): Avg. Loss: 0.0541
+===> Epoch[81](50/77): Avg. Loss: 0.1067
+===> Epoch[81](60/77): Avg. Loss: 0.1238
+===> Epoch[81](70/77): Avg. Loss: 0.1787
+Val Error: 
+	Accuracy: 78.2%, Avg loss: 0.977934 
+===> Epoch[82](10/77): Avg. Loss: 0.1896
+===> Epoch[82](20/77): Avg. Loss: 0.1034
+===> Epoch[82](30/77): Avg. Loss: 0.1041
+===> Epoch[82](40/77): Avg. Loss: 0.1089
+===> Epoch[82](50/77): Avg. Loss: 0.1218
+===> Epoch[82](60/77): Avg. Loss: 0.1982
+===> Epoch[82](70/77): Avg. Loss: 0.1513
+Val Error: 
+	Accuracy: 78.2%, Avg loss: 0.969804 
+===> Epoch[83](10/77): Avg. Loss: 0.1008
+===> Epoch[83](20/77): Avg. Loss: 0.0794
+===> Epoch[83](30/77): Avg. Loss: 0.0586
+===> Epoch[83](40/77): Avg. Loss: 0.0850
+===> Epoch[83](50/77): Avg. Loss: 0.0803
+===> Epoch[83](60/77): Avg. Loss: 0.1123
+===> Epoch[83](70/77): Avg. Loss: 0.0738
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.615512 
+===> Epoch[84](10/77): Avg. Loss: 0.1327
+===> Epoch[84](20/77): Avg. Loss: 0.0815
+===> Epoch[84](30/77): Avg. Loss: 0.1060
+===> Epoch[84](40/77): Avg. Loss: 0.0445
+===> Epoch[84](50/77): Avg. Loss: 0.0672
+===> Epoch[84](60/77): Avg. Loss: 0.0978
+===> Epoch[84](70/77): Avg. Loss: 0.0564
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.708601 
+===> Epoch[85](10/77): Avg. Loss: 0.1251
+===> Epoch[85](20/77): Avg. Loss: 0.0772
+===> Epoch[85](30/77): Avg. Loss: 0.1943
+===> Epoch[85](40/77): Avg. Loss: 0.0697
+===> Epoch[85](50/77): Avg. Loss: 0.0671
+===> Epoch[85](60/77): Avg. Loss: 0.0998
+===> Epoch[85](70/77): Avg. Loss: 0.0912
+Val Error: 
+	Accuracy: 79.3%, Avg loss: 0.978072 
+===> Epoch[86](10/77): Avg. Loss: 0.0680
+===> Epoch[86](20/77): Avg. Loss: 0.0862
+===> Epoch[86](30/77): Avg. Loss: 0.0571
+===> Epoch[86](40/77): Avg. Loss: 0.1298
+===> Epoch[86](50/77): Avg. Loss: 0.0715
+===> Epoch[86](60/77): Avg. Loss: 0.0649
+===> Epoch[86](70/77): Avg. Loss: 0.0485
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.885307 
+===> Epoch[87](10/77): Avg. Loss: 0.1263
+===> Epoch[87](20/77): Avg. Loss: 0.1382
+===> Epoch[87](30/77): Avg. Loss: 0.0375
+===> Epoch[87](40/77): Avg. Loss: 0.1131
+===> Epoch[87](50/77): Avg. Loss: 0.0812
+===> Epoch[87](60/77): Avg. Loss: 0.0753
+===> Epoch[87](70/77): Avg. Loss: 0.0935
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.861715 
+===> Epoch[88](10/77): Avg. Loss: 0.1937
+===> Epoch[88](20/77): Avg. Loss: 0.0977
+===> Epoch[88](30/77): Avg. Loss: 0.0964
+===> Epoch[88](40/77): Avg. Loss: 0.1087
+===> Epoch[88](50/77): Avg. Loss: 0.1227
+===> Epoch[88](60/77): Avg. Loss: 0.0863
+===> Epoch[88](70/77): Avg. Loss: 0.1584
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.711174 
+===> Epoch[89](10/77): Avg. Loss: 0.0475
+===> Epoch[89](20/77): Avg. Loss: 0.0561
+===> Epoch[89](30/77): Avg. Loss: 0.0481
+===> Epoch[89](40/77): Avg. Loss: 0.0472
+===> Epoch[89](50/77): Avg. Loss: 0.0746
+===> Epoch[89](60/77): Avg. Loss: 0.0963
+===> Epoch[89](70/77): Avg. Loss: 0.1181
+Val Error: 
+	Accuracy: 88.1%, Avg loss: 0.580895 
+===> Epoch[90](10/77): Avg. Loss: 0.0669
+===> Epoch[90](20/77): Avg. Loss: 0.1600
+===> Epoch[90](30/77): Avg. Loss: 0.1672
+===> Epoch[90](40/77): Avg. Loss: 0.1605
+===> Epoch[90](50/77): Avg. Loss: 0.1592
+===> Epoch[90](60/77): Avg. Loss: 0.1229
+===> Epoch[90](70/77): Avg. Loss: 0.0555
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.720992 
+===> Epoch[91](10/77): Avg. Loss: 0.1103
+===> Epoch[91](20/77): Avg. Loss: 0.1047
+===> Epoch[91](30/77): Avg. Loss: 0.0586
+===> Epoch[91](40/77): Avg. Loss: 0.1340
+===> Epoch[91](50/77): Avg. Loss: 0.2264
+===> Epoch[91](60/77): Avg. Loss: 0.1039
+===> Epoch[91](70/77): Avg. Loss: 0.0674
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.524975 
+===> Epoch[92](10/77): Avg. Loss: 0.1234
+===> Epoch[92](20/77): Avg. Loss: 0.0713
+===> Epoch[92](30/77): Avg. Loss: 0.1094
+===> Epoch[92](40/77): Avg. Loss: 0.1139
+===> Epoch[92](50/77): Avg. Loss: 0.0384
+===> Epoch[92](60/77): Avg. Loss: 0.0926
+===> Epoch[92](70/77): Avg. Loss: 0.0653
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.676919 
+===> Epoch[93](10/77): Avg. Loss: 0.1187
+===> Epoch[93](20/77): Avg. Loss: 0.0868
+===> Epoch[93](30/77): Avg. Loss: 0.0732
+===> Epoch[93](40/77): Avg. Loss: 0.1809
+===> Epoch[93](50/77): Avg. Loss: 0.0331
+===> Epoch[93](60/77): Avg. Loss: 0.0671
+===> Epoch[93](70/77): Avg. Loss: 0.0344
+Val Error: 
+	Accuracy: 83.9%, Avg loss: 0.716605 
+===> Epoch[94](10/77): Avg. Loss: 0.0486
+===> Epoch[94](20/77): Avg. Loss: 0.0459
+===> Epoch[94](30/77): Avg. Loss: 0.0782
+===> Epoch[94](40/77): Avg. Loss: 0.0474
+===> Epoch[94](50/77): Avg. Loss: 0.1616
+===> Epoch[94](60/77): Avg. Loss: 0.1103
+===> Epoch[94](70/77): Avg. Loss: 0.0361
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.648387 
+===> Epoch[95](10/77): Avg. Loss: 0.0707
+===> Epoch[95](20/77): Avg. Loss: 0.0588
+===> Epoch[95](30/77): Avg. Loss: 0.0950
+===> Epoch[95](40/77): Avg. Loss: 0.1030
+===> Epoch[95](50/77): Avg. Loss: 0.0692
+===> Epoch[95](60/77): Avg. Loss: 0.0520
+===> Epoch[95](70/77): Avg. Loss: 0.0469
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.929163 
+===> Epoch[96](10/77): Avg. Loss: 0.0689
+===> Epoch[96](20/77): Avg. Loss: 0.0501
+===> Epoch[96](30/77): Avg. Loss: 0.0515
+===> Epoch[96](40/77): Avg. Loss: 0.0824
+===> Epoch[96](50/77): Avg. Loss: 0.0786
+===> Epoch[96](60/77): Avg. Loss: 0.0917
+===> Epoch[96](70/77): Avg. Loss: 0.1193
+Val Error: 
+	Accuracy: 78.8%, Avg loss: 0.914439 
+===> Epoch[97](10/77): Avg. Loss: 0.1627
+===> Epoch[97](20/77): Avg. Loss: 0.0795
+===> Epoch[97](30/77): Avg. Loss: 0.0915
+===> Epoch[97](40/77): Avg. Loss: 0.1025
+===> Epoch[97](50/77): Avg. Loss: 0.0674
+===> Epoch[97](60/77): Avg. Loss: 0.0441
+===> Epoch[97](70/77): Avg. Loss: 0.0900
+Val Error: 
+	Accuracy: 76.2%, Avg loss: 1.108765 
+===> Epoch[98](10/77): Avg. Loss: 0.0662
+===> Epoch[98](20/77): Avg. Loss: 0.0525
+===> Epoch[98](30/77): Avg. Loss: 0.1087
+===> Epoch[98](40/77): Avg. Loss: 0.1315
+===> Epoch[98](50/77): Avg. Loss: 0.1493
+===> Epoch[98](60/77): Avg. Loss: 0.1632
+===> Epoch[98](70/77): Avg. Loss: 0.1434
+Val Error: 
+	Accuracy: 80.3%, Avg loss: 0.776669 
+===> Epoch[99](10/77): Avg. Loss: 0.0735
+===> Epoch[99](20/77): Avg. Loss: 0.1298
+===> Epoch[99](30/77): Avg. Loss: 0.0758
+===> Epoch[99](40/77): Avg. Loss: 0.1367
+===> Epoch[99](50/77): Avg. Loss: 0.0868
+===> Epoch[99](60/77): Avg. Loss: 0.1748
+===> Epoch[99](70/77): Avg. Loss: 0.0778
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.775974 
+===> Epoch[100](10/77): Avg. Loss: 0.1957
+===> Epoch[100](20/77): Avg. Loss: 0.1224
+===> Epoch[100](30/77): Avg. Loss: 0.0782
+===> Epoch[100](40/77): Avg. Loss: 0.1230
+===> Epoch[100](50/77): Avg. Loss: 0.0643
+===> Epoch[100](60/77): Avg. Loss: 0.0631
+===> Epoch[100](70/77): Avg. Loss: 0.0650
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.571633 
+===> Epoch[101](10/77): Avg. Loss: 0.0427
+===> Epoch[101](20/77): Avg. Loss: 0.0541
+===> Epoch[101](30/77): Avg. Loss: 0.0504
+===> Epoch[101](40/77): Avg. Loss: 0.0945
+===> Epoch[101](50/77): Avg. Loss: 0.0510
+===> Epoch[101](60/77): Avg. Loss: 0.1053
+===> Epoch[101](70/77): Avg. Loss: 0.0980
+Val Error: 
+	Accuracy: 76.7%, Avg loss: 1.068963 
+===> Epoch[102](10/77): Avg. Loss: 0.0381
+===> Epoch[102](20/77): Avg. Loss: 0.0728
+===> Epoch[102](30/77): Avg. Loss: 0.0496
+===> Epoch[102](40/77): Avg. Loss: 0.0466
+===> Epoch[102](50/77): Avg. Loss: 0.1090
+===> Epoch[102](60/77): Avg. Loss: 0.0768
+===> Epoch[102](70/77): Avg. Loss: 0.0783
+Val Error: 
+	Accuracy: 78.8%, Avg loss: 0.866833 
+===> Epoch[103](10/77): Avg. Loss: 0.1346
+===> Epoch[103](20/77): Avg. Loss: 0.1007
+===> Epoch[103](30/77): Avg. Loss: 0.0664
+===> Epoch[103](40/77): Avg. Loss: 0.0521
+===> Epoch[103](50/77): Avg. Loss: 0.0670
+===> Epoch[103](60/77): Avg. Loss: 0.0683
+===> Epoch[103](70/77): Avg. Loss: 0.0828
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.867862 
+===> Epoch[104](10/77): Avg. Loss: 0.0597
+===> Epoch[104](20/77): Avg. Loss: 0.0532
+===> Epoch[104](30/77): Avg. Loss: 0.0606
+===> Epoch[104](40/77): Avg. Loss: 0.0829
+===> Epoch[104](50/77): Avg. Loss: 0.0927
+===> Epoch[104](60/77): Avg. Loss: 0.0244
+===> Epoch[104](70/77): Avg. Loss: 0.0687
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.944505 
+===> Epoch[105](10/77): Avg. Loss: 0.0563
+===> Epoch[105](20/77): Avg. Loss: 0.0986
+===> Epoch[105](30/77): Avg. Loss: 0.1095
+===> Epoch[105](40/77): Avg. Loss: 0.0499
+===> Epoch[105](50/77): Avg. Loss: 0.0954
+===> Epoch[105](60/77): Avg. Loss: 0.0432
+===> Epoch[105](70/77): Avg. Loss: 0.0620
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.903536 
+===> Epoch[106](10/77): Avg. Loss: 0.1505
+===> Epoch[106](20/77): Avg. Loss: 0.0533
+===> Epoch[106](30/77): Avg. Loss: 0.0786
+===> Epoch[106](40/77): Avg. Loss: 0.0490
+===> Epoch[106](50/77): Avg. Loss: 0.1301
+===> Epoch[106](60/77): Avg. Loss: 0.0654
+===> Epoch[106](70/77): Avg. Loss: 0.0952
+Val Error: 
+	Accuracy: 80.8%, Avg loss: 0.981378 
+===> Epoch[107](10/77): Avg. Loss: 0.1240
+===> Epoch[107](20/77): Avg. Loss: 0.1156
+===> Epoch[107](30/77): Avg. Loss: 0.0454
+===> Epoch[107](40/77): Avg. Loss: 0.0588
+===> Epoch[107](50/77): Avg. Loss: 0.0611
+===> Epoch[107](60/77): Avg. Loss: 0.1489
+===> Epoch[107](70/77): Avg. Loss: 0.0627
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.692865 
+===> Epoch[108](10/77): Avg. Loss: 0.0377
+===> Epoch[108](20/77): Avg. Loss: 0.0649
+===> Epoch[108](30/77): Avg. Loss: 0.0765
+===> Epoch[108](40/77): Avg. Loss: 0.1315
+===> Epoch[108](50/77): Avg. Loss: 0.1590
+===> Epoch[108](60/77): Avg. Loss: 0.0292
+===> Epoch[108](70/77): Avg. Loss: 0.0634
+Val Error: 
+	Accuracy: 84.5%, Avg loss: 0.861901 
+===> Epoch[109](10/77): Avg. Loss: 0.1252
+===> Epoch[109](20/77): Avg. Loss: 0.0502
+===> Epoch[109](30/77): Avg. Loss: 0.0756
+===> Epoch[109](40/77): Avg. Loss: 0.0585
+===> Epoch[109](50/77): Avg. Loss: 0.1130
+===> Epoch[109](60/77): Avg. Loss: 0.0693
+===> Epoch[109](70/77): Avg. Loss: 0.1798
+Val Error: 
+	Accuracy: 71.0%, Avg loss: 1.466543 
+===> Epoch[110](10/77): Avg. Loss: 0.1592
+===> Epoch[110](20/77): Avg. Loss: 0.2063
+===> Epoch[110](30/77): Avg. Loss: 0.0824
+===> Epoch[110](40/77): Avg. Loss: 0.0911
+===> Epoch[110](50/77): Avg. Loss: 0.0849
+===> Epoch[110](60/77): Avg. Loss: 0.0828
+===> Epoch[110](70/77): Avg. Loss: 0.1842
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.715332 
+===> Epoch[111](10/77): Avg. Loss: 0.1146
+===> Epoch[111](20/77): Avg. Loss: 0.0636
+===> Epoch[111](30/77): Avg. Loss: 0.0663
+===> Epoch[111](40/77): Avg. Loss: 0.1043
+===> Epoch[111](50/77): Avg. Loss: 0.0722
+===> Epoch[111](60/77): Avg. Loss: 0.0734
+===> Epoch[111](70/77): Avg. Loss: 0.1147
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.686162 
+===> Epoch[112](10/77): Avg. Loss: 0.0497
+===> Epoch[112](20/77): Avg. Loss: 0.0690
+===> Epoch[112](30/77): Avg. Loss: 0.1318
+===> Epoch[112](40/77): Avg. Loss: 0.0289
+===> Epoch[112](50/77): Avg. Loss: 0.0670
+===> Epoch[112](60/77): Avg. Loss: 0.0532
+===> Epoch[112](70/77): Avg. Loss: 0.1233
+Val Error: 
+	Accuracy: 79.3%, Avg loss: 1.075830 
+===> Epoch[113](10/77): Avg. Loss: 0.0599
+===> Epoch[113](20/77): Avg. Loss: 0.0904
+===> Epoch[113](30/77): Avg. Loss: 0.1038
+===> Epoch[113](40/77): Avg. Loss: 0.1266
+===> Epoch[113](50/77): Avg. Loss: 0.0544
+===> Epoch[113](60/77): Avg. Loss: 0.0328
+===> Epoch[113](70/77): Avg. Loss: 0.0625
+Val Error: 
+	Accuracy: 80.8%, Avg loss: 0.770279 
+===> Epoch[114](10/77): Avg. Loss: 0.0673
+===> Epoch[114](20/77): Avg. Loss: 0.0586
+===> Epoch[114](30/77): Avg. Loss: 0.0371
+===> Epoch[114](40/77): Avg. Loss: 0.0742
+===> Epoch[114](50/77): Avg. Loss: 0.1024
+===> Epoch[114](60/77): Avg. Loss: 0.0726
+===> Epoch[114](70/77): Avg. Loss: 0.0541
+Val Error: 
+	Accuracy: 83.4%, Avg loss: 0.748101 
+===> Epoch[115](10/77): Avg. Loss: 0.0361
+===> Epoch[115](20/77): Avg. Loss: 0.0476
+===> Epoch[115](30/77): Avg. Loss: 0.0587
+===> Epoch[115](40/77): Avg. Loss: 0.0472
+===> Epoch[115](50/77): Avg. Loss: 0.0854
+===> Epoch[115](60/77): Avg. Loss: 0.0945
+===> Epoch[115](70/77): Avg. Loss: 0.1083
+Val Error: 
+	Accuracy: 80.8%, Avg loss: 1.127167 
+===> Epoch[116](10/77): Avg. Loss: 0.0471
+===> Epoch[116](20/77): Avg. Loss: 0.0515
+===> Epoch[116](30/77): Avg. Loss: 0.1327
+===> Epoch[116](40/77): Avg. Loss: 0.0972
+===> Epoch[116](50/77): Avg. Loss: 0.0713
+===> Epoch[116](60/77): Avg. Loss: 0.0893
+===> Epoch[116](70/77): Avg. Loss: 0.1149
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.724242 
+===> Epoch[117](10/77): Avg. Loss: 0.1087
+===> Epoch[117](20/77): Avg. Loss: 0.0468
+===> Epoch[117](30/77): Avg. Loss: 0.1347
+===> Epoch[117](40/77): Avg. Loss: 0.0477
+===> Epoch[117](50/77): Avg. Loss: 0.0600
+===> Epoch[117](60/77): Avg. Loss: 0.0987
+===> Epoch[117](70/77): Avg. Loss: 0.0727
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 1.024516 
+===> Epoch[118](10/77): Avg. Loss: 0.0535
+===> Epoch[118](20/77): Avg. Loss: 0.0621
+===> Epoch[118](30/77): Avg. Loss: 0.0414
+===> Epoch[118](40/77): Avg. Loss: 0.0821
+===> Epoch[118](50/77): Avg. Loss: 0.0965
+===> Epoch[118](60/77): Avg. Loss: 0.0787
+===> Epoch[118](70/77): Avg. Loss: 0.1249
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 1.001769 
+===> Epoch[119](10/77): Avg. Loss: 0.0934
+===> Epoch[119](20/77): Avg. Loss: 0.0957
+===> Epoch[119](30/77): Avg. Loss: 0.1163
+===> Epoch[119](40/77): Avg. Loss: 0.1019
+===> Epoch[119](50/77): Avg. Loss: 0.0632
+===> Epoch[119](60/77): Avg. Loss: 0.1162
+===> Epoch[119](70/77): Avg. Loss: 0.0718
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 1.135397 
+===> Epoch[120](10/77): Avg. Loss: 0.0382
+===> Epoch[120](20/77): Avg. Loss: 0.0400
+===> Epoch[120](30/77): Avg. Loss: 0.0826
+===> Epoch[120](40/77): Avg. Loss: 0.1397
+===> Epoch[120](50/77): Avg. Loss: 0.1296
+===> Epoch[120](60/77): Avg. Loss: 0.1520
+===> Epoch[120](70/77): Avg. Loss: 0.1159
+Val Error: 
+	Accuracy: 78.8%, Avg loss: 0.985395 
+===> Epoch[121](10/77): Avg. Loss: 0.1593
+===> Epoch[121](20/77): Avg. Loss: 0.0553
+===> Epoch[121](30/77): Avg. Loss: 0.1323
+===> Epoch[121](40/77): Avg. Loss: 0.0962
+===> Epoch[121](50/77): Avg. Loss: 0.0933
+===> Epoch[121](60/77): Avg. Loss: 0.0607
+===> Epoch[121](70/77): Avg. Loss: 0.0405
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.734939 
+===> Epoch[122](10/77): Avg. Loss: 0.0349
+===> Epoch[122](20/77): Avg. Loss: 0.0444
+===> Epoch[122](30/77): Avg. Loss: 0.0788
+===> Epoch[122](40/77): Avg. Loss: 0.0794
+===> Epoch[122](50/77): Avg. Loss: 0.0504
+===> Epoch[122](60/77): Avg. Loss: 0.0940
+===> Epoch[122](70/77): Avg. Loss: 0.0209
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.673060 
+===> Epoch[123](10/77): Avg. Loss: 0.0649
+===> Epoch[123](20/77): Avg. Loss: 0.0591
+===> Epoch[123](30/77): Avg. Loss: 0.0756
+===> Epoch[123](40/77): Avg. Loss: 0.0617
+===> Epoch[123](50/77): Avg. Loss: 0.0686
+===> Epoch[123](60/77): Avg. Loss: 0.0823
+===> Epoch[123](70/77): Avg. Loss: 0.1473
+Val Error: 
+	Accuracy: 87.6%, Avg loss: 0.475635 
+===> Epoch[124](10/77): Avg. Loss: 0.0554
+===> Epoch[124](20/77): Avg. Loss: 0.0774
+===> Epoch[124](30/77): Avg. Loss: 0.0832
+===> Epoch[124](40/77): Avg. Loss: 0.0376
+===> Epoch[124](50/77): Avg. Loss: 0.0575
+===> Epoch[124](60/77): Avg. Loss: 0.0675
+===> Epoch[124](70/77): Avg. Loss: 0.0690
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.692115 
+===> Epoch[125](10/77): Avg. Loss: 0.1087
+===> Epoch[125](20/77): Avg. Loss: 0.0463
+===> Epoch[125](30/77): Avg. Loss: 0.0413
+===> Epoch[125](40/77): Avg. Loss: 0.1177
+===> Epoch[125](50/77): Avg. Loss: 0.0860
+===> Epoch[125](60/77): Avg. Loss: 0.0384
+===> Epoch[125](70/77): Avg. Loss: 0.0619
+Val Error: 
+	Accuracy: 80.8%, Avg loss: 0.843723 
+===> Epoch[126](10/77): Avg. Loss: 0.0195
+===> Epoch[126](20/77): Avg. Loss: 0.0477
+===> Epoch[126](30/77): Avg. Loss: 0.0833
+===> Epoch[126](40/77): Avg. Loss: 0.1872
+===> Epoch[126](50/77): Avg. Loss: 0.0975
+===> Epoch[126](60/77): Avg. Loss: 0.0709
+===> Epoch[126](70/77): Avg. Loss: 0.0439
+Val Error: 
+	Accuracy: 83.4%, Avg loss: 0.682248 
+===> Epoch[127](10/77): Avg. Loss: 0.0675
+===> Epoch[127](20/77): Avg. Loss: 0.0488
+===> Epoch[127](30/77): Avg. Loss: 0.0487
+===> Epoch[127](40/77): Avg. Loss: 0.0533
+===> Epoch[127](50/77): Avg. Loss: 0.0487
+===> Epoch[127](60/77): Avg. Loss: 0.0506
+===> Epoch[127](70/77): Avg. Loss: 0.0341
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.846553 
+===> Epoch[128](10/77): Avg. Loss: 0.0271
+===> Epoch[128](20/77): Avg. Loss: 0.1119
+===> Epoch[128](30/77): Avg. Loss: 0.0759
+===> Epoch[128](40/77): Avg. Loss: 0.0644
+===> Epoch[128](50/77): Avg. Loss: 0.0692
+===> Epoch[128](60/77): Avg. Loss: 0.0681
+===> Epoch[128](70/77): Avg. Loss: 0.0589
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.870603 
+===> Epoch[129](10/77): Avg. Loss: 0.0381
+===> Epoch[129](20/77): Avg. Loss: 0.0431
+===> Epoch[129](30/77): Avg. Loss: 0.0298
+===> Epoch[129](40/77): Avg. Loss: 0.0633
+===> Epoch[129](50/77): Avg. Loss: 0.1114
+===> Epoch[129](60/77): Avg. Loss: 0.0567
+===> Epoch[129](70/77): Avg. Loss: 0.0930
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.751537 
+===> Epoch[130](10/77): Avg. Loss: 0.0603
+===> Epoch[130](20/77): Avg. Loss: 0.0515
+===> Epoch[130](30/77): Avg. Loss: 0.0622
+===> Epoch[130](40/77): Avg. Loss: 0.0803
+===> Epoch[130](50/77): Avg. Loss: 0.1413
+===> Epoch[130](60/77): Avg. Loss: 0.0658
+===> Epoch[130](70/77): Avg. Loss: 0.0239
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 1.034585 
+===> Epoch[131](10/77): Avg. Loss: 0.0632
+===> Epoch[131](20/77): Avg. Loss: 0.0607
+===> Epoch[131](30/77): Avg. Loss: 0.0594
+===> Epoch[131](40/77): Avg. Loss: 0.0422
+===> Epoch[131](50/77): Avg. Loss: 0.0467
+===> Epoch[131](60/77): Avg. Loss: 0.0914
+===> Epoch[131](70/77): Avg. Loss: 0.0507
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 1.010668 
+===> Epoch[132](10/77): Avg. Loss: 0.0483
+===> Epoch[132](20/77): Avg. Loss: 0.0866
+===> Epoch[132](30/77): Avg. Loss: 0.1161
+===> Epoch[132](40/77): Avg. Loss: 0.0522
+===> Epoch[132](50/77): Avg. Loss: 0.0759
+===> Epoch[132](60/77): Avg. Loss: 0.0885
+===> Epoch[132](70/77): Avg. Loss: 0.0586
+Val Error: 
+	Accuracy: 78.8%, Avg loss: 1.133015 
+===> Epoch[133](10/77): Avg. Loss: 0.2135
+===> Epoch[133](20/77): Avg. Loss: 0.0628
+===> Epoch[133](30/77): Avg. Loss: 0.0383
+===> Epoch[133](40/77): Avg. Loss: 0.1017
+===> Epoch[133](50/77): Avg. Loss: 0.1039
+===> Epoch[133](60/77): Avg. Loss: 0.1154
+===> Epoch[133](70/77): Avg. Loss: 0.1977
+Val Error: 
+	Accuracy: 78.8%, Avg loss: 1.074787 
+===> Epoch[134](10/77): Avg. Loss: 0.1614
+===> Epoch[134](20/77): Avg. Loss: 0.1163
+===> Epoch[134](30/77): Avg. Loss: 0.0815
+===> Epoch[134](40/77): Avg. Loss: 0.0804
+===> Epoch[134](50/77): Avg. Loss: 0.1253
+===> Epoch[134](60/77): Avg. Loss: 0.1633
+===> Epoch[134](70/77): Avg. Loss: 0.0821
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.594063 
+===> Epoch[135](10/77): Avg. Loss: 0.1467
+===> Epoch[135](20/77): Avg. Loss: 0.0378
+===> Epoch[135](30/77): Avg. Loss: 0.0763
+===> Epoch[135](40/77): Avg. Loss: 0.0617
+===> Epoch[135](50/77): Avg. Loss: 0.0665
+===> Epoch[135](60/77): Avg. Loss: 0.0930
+===> Epoch[135](70/77): Avg. Loss: 0.1319
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.550712 
+===> Epoch[136](10/77): Avg. Loss: 0.1389
+===> Epoch[136](20/77): Avg. Loss: 0.0683
+===> Epoch[136](30/77): Avg. Loss: 0.0546
+===> Epoch[136](40/77): Avg. Loss: 0.0881
+===> Epoch[136](50/77): Avg. Loss: 0.0954
+===> Epoch[136](60/77): Avg. Loss: 0.0655
+===> Epoch[136](70/77): Avg. Loss: 0.2113
+Val Error: 
+	Accuracy: 86.0%, Avg loss: 0.657185 
+===> Epoch[137](10/77): Avg. Loss: 0.0817
+===> Epoch[137](20/77): Avg. Loss: 0.1993
+===> Epoch[137](30/77): Avg. Loss: 0.0955
+===> Epoch[137](40/77): Avg. Loss: 0.0426
+===> Epoch[137](50/77): Avg. Loss: 0.0280
+===> Epoch[137](60/77): Avg. Loss: 0.0871
+===> Epoch[137](70/77): Avg. Loss: 0.0484
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 1.021863 
+===> Epoch[138](10/77): Avg. Loss: 0.0884
+===> Epoch[138](20/77): Avg. Loss: 0.0882
+===> Epoch[138](30/77): Avg. Loss: 0.0545
+===> Epoch[138](40/77): Avg. Loss: 0.1592
+===> Epoch[138](50/77): Avg. Loss: 0.0764
+===> Epoch[138](60/77): Avg. Loss: 0.0690
+===> Epoch[138](70/77): Avg. Loss: 0.0683
+Val Error: 
+	Accuracy: 82.4%, Avg loss: 0.761984 
+===> Epoch[139](10/77): Avg. Loss: 0.0410
+===> Epoch[139](20/77): Avg. Loss: 0.0665
+===> Epoch[139](30/77): Avg. Loss: 0.0562
+===> Epoch[139](40/77): Avg. Loss: 0.0377
+===> Epoch[139](50/77): Avg. Loss: 0.0697
+===> Epoch[139](60/77): Avg. Loss: 0.0350
+===> Epoch[139](70/77): Avg. Loss: 0.0709
+Val Error: 
+	Accuracy: 82.9%, Avg loss: 0.807825 
+===> Epoch[140](10/77): Avg. Loss: 0.0368
+===> Epoch[140](20/77): Avg. Loss: 0.0751
+===> Epoch[140](30/77): Avg. Loss: 0.0783
+===> Epoch[140](40/77): Avg. Loss: 0.0378
+===> Epoch[140](50/77): Avg. Loss: 0.0732
+===> Epoch[140](60/77): Avg. Loss: 0.0347
+===> Epoch[140](70/77): Avg. Loss: 0.0932
+Val Error: 
+	Accuracy: 80.3%, Avg loss: 1.110949 
+===> Epoch[141](10/77): Avg. Loss: 0.0386
+===> Epoch[141](20/77): Avg. Loss: 0.0451
+===> Epoch[141](30/77): Avg. Loss: 0.0392
+===> Epoch[141](40/77): Avg. Loss: 0.0716
+===> Epoch[141](50/77): Avg. Loss: 0.0549
+===> Epoch[141](60/77): Avg. Loss: 0.0702
+===> Epoch[141](70/77): Avg. Loss: 0.0647
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.829840 
+===> Epoch[142](10/77): Avg. Loss: 0.0532
+===> Epoch[142](20/77): Avg. Loss: 0.0471
+===> Epoch[142](30/77): Avg. Loss: 0.0581
+===> Epoch[142](40/77): Avg. Loss: 0.0841
+===> Epoch[142](50/77): Avg. Loss: 0.1103
+===> Epoch[142](60/77): Avg. Loss: 0.1301
+===> Epoch[142](70/77): Avg. Loss: 0.1032
+Val Error: 
+	Accuracy: 78.8%, Avg loss: 1.151959 
+===> Epoch[143](10/77): Avg. Loss: 0.1367
+===> Epoch[143](20/77): Avg. Loss: 0.0884
+===> Epoch[143](30/77): Avg. Loss: 0.0679
+===> Epoch[143](40/77): Avg. Loss: 0.0728
+===> Epoch[143](50/77): Avg. Loss: 0.1720
+===> Epoch[143](60/77): Avg. Loss: 0.1388
+===> Epoch[143](70/77): Avg. Loss: 0.1000
+Val Error: 
+	Accuracy: 85.0%, Avg loss: 0.588926 
+===> Epoch[144](10/77): Avg. Loss: 0.0384
+===> Epoch[144](20/77): Avg. Loss: 0.1589
+===> Epoch[144](30/77): Avg. Loss: 0.0568
+===> Epoch[144](40/77): Avg. Loss: 0.0594
+===> Epoch[144](50/77): Avg. Loss: 0.0627
+===> Epoch[144](60/77): Avg. Loss: 0.0728
+===> Epoch[144](70/77): Avg. Loss: 0.0714
+Val Error: 
+	Accuracy: 81.9%, Avg loss: 0.896608 
+===> Epoch[145](10/77): Avg. Loss: 0.1098
+===> Epoch[145](20/77): Avg. Loss: 0.0451
+===> Epoch[145](30/77): Avg. Loss: 0.0844
+===> Epoch[145](40/77): Avg. Loss: 0.0802
+===> Epoch[145](50/77): Avg. Loss: 0.0560
+===> Epoch[145](60/77): Avg. Loss: 0.0303
+===> Epoch[145](70/77): Avg. Loss: 0.0774
+Val Error: 
+	Accuracy: 81.3%, Avg loss: 0.956893 
+===> Epoch[146](10/77): Avg. Loss: 0.0461
+===> Epoch[146](20/77): Avg. Loss: 0.0782
+===> Epoch[146](30/77): Avg. Loss: 0.0259
+===> Epoch[146](40/77): Avg. Loss: 0.0471
+===> Epoch[146](50/77): Avg. Loss: 0.0675
+===> Epoch[146](60/77): Avg. Loss: 0.0566
+===> Epoch[146](70/77): Avg. Loss: 0.1191
+Val Error: 
+	Accuracy: 75.6%, Avg loss: 1.461349 
+===> Epoch[147](10/77): Avg. Loss: 0.0639
+===> Epoch[147](20/77): Avg. Loss: 0.0409
+===> Epoch[147](30/77): Avg. Loss: 0.0540
+===> Epoch[147](40/77): Avg. Loss: 0.1162
+===> Epoch[147](50/77): Avg. Loss: 0.0268
+===> Epoch[147](60/77): Avg. Loss: 0.0946
+===> Epoch[147](70/77): Avg. Loss: 0.0552
+Val Error: 
+	Accuracy: 86.0%, Avg loss: 0.551581 
+===> Epoch[148](10/77): Avg. Loss: 0.0607
+===> Epoch[148](20/77): Avg. Loss: 0.0454
+===> Epoch[148](30/77): Avg. Loss: 0.1571
+===> Epoch[148](40/77): Avg. Loss: 0.0792
+===> Epoch[148](50/77): Avg. Loss: 0.0619
+===> Epoch[148](60/77): Avg. Loss: 0.1249
+===> Epoch[148](70/77): Avg. Loss: 0.1135
+Val Error: 
+	Accuracy: 83.4%, Avg loss: 0.926576 
+===> Epoch[149](10/77): Avg. Loss: 0.0568
+===> Epoch[149](20/77): Avg. Loss: 0.0505
+===> Epoch[149](30/77): Avg. Loss: 0.0598
+===> Epoch[149](40/77): Avg. Loss: 0.0639
+===> Epoch[149](50/77): Avg. Loss: 0.0354
+===> Epoch[149](60/77): Avg. Loss: 0.1200
+===> Epoch[149](70/77): Avg. Loss: 0.0360
+Val Error: 
+	Accuracy: 85.5%, Avg loss: 0.650654 
+===> Epoch[150](10/77): Avg. Loss: 0.0688
+===> Epoch[150](20/77): Avg. Loss: 0.1089
+===> Epoch[150](30/77): Avg. Loss: 0.0532
+===> Epoch[150](40/77): Avg. Loss: 0.0538
+===> Epoch[150](50/77): Avg. Loss: 0.1324
+===> Epoch[150](60/77): Avg. Loss: 0.0919
+===> Epoch[150](70/77): Avg. Loss: 0.1803
+Val Error: 
+	Accuracy: 80.3%, Avg loss: 0.975325 

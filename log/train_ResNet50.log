@@ -1,0 +1,4 @@
+random seed=777
+dataset configuration: batch size = 16
+Test Error: 
+	Accuracy: 81.7%, Avg loss: 1.192350 
